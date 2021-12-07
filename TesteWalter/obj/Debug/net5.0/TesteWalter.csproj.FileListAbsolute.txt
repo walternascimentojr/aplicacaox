@@ -1,0 +1,16 @@
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\bin\Debug\net5.0\TesteWalter.exe
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\bin\Debug\net5.0\TesteWalter.deps.json
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\bin\Debug\net5.0\TesteWalter.runtimeconfig.json
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\bin\Debug\net5.0\TesteWalter.runtimeconfig.dev.json
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\bin\Debug\net5.0\TesteWalter.dll
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\bin\Debug\net5.0\ref\TesteWalter.dll
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\bin\Debug\net5.0\TesteWalter.pdb
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.csproj.AssemblyReference.cache
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.AssemblyInfoInputs.cache
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.AssemblyInfo.cs
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.csproj.CoreCompileInputs.cache
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.dll
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\ref\TesteWalter.dll
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.pdb
+C:\Users\U002230\source\repos\TesteWalter\TesteWalter\obj\Debug\net5.0\TesteWalter.genruntimeconfig.cache
